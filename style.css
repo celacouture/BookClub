@@ -1,0 +1,48 @@
+body{
+  background: #17D0F7;
+}
+
+h1 {
+  margin-top: 61px;
+}
+.title-heading{
+  font-size: 48px;
+  text-align: center;
+  font-family: 'Lemonade Stand', sans-serif;
+  color:#15153A;
+}
+
+.kids-lg{
+  text-shadow: 3px 2px #FDFEFE;
+}
+
+.logo-large{
+  margin-top: 15px;
+}
+img.logo{
+  margin-left: auto;
+}
+.button-holder{
+  max-width: 326px;
+  min-height: 372px;
+  background-color: #154360;
+  border: 1px solid #15153A;
+  border-style: inset;
+  margin: 40px auto 0 auto;
+}
+.button{
+  background-color: #FDFEFE;
+  font-family:'Lemonade Stand', sans-serif;
+  font-size: 48px;
+  color: #15153A;
+  text-align: center;
+  border: 1px solid #15153A;
+  display: block;
+  width:255px;
+  padding:2px;
+  margin: 45px auto;
+}
+
+a{
+  text-decoration: none;
+}

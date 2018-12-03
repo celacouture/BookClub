@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="152px" viewBox="0 0 136 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>BookLogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BookClubKids-Onboard" transform="translate(-119.000000, -167.000000)">
+            <g id="BookLogo" transform="translate(120.000000, 167.000000)">
+                <polygon id="Path" stroke="#15153A" fill="#F25E03" points="0 14 0 105.566406 59.15625 150.507812 59.15625 54.1875"></polygon>
+                <polygon id="Path-2" fill="#FDFEFE" points="4 12.339228 63.15625 53 36.2458488 0"></polygon>
+                <g id="Group-2" transform="translate(70.000000, 0.000000)">
+                    <polygon id="Path-Copy" stroke="#15153A" fill="#F25E03" transform="translate(34.578125, 82.253906) scale(-1, 1) translate(-34.578125, -82.253906) " points="5 14 5 105.566406 64.15625 150.507812 64.15625 54.1875"></polygon>
+                    <polygon id="Path-2-Copy" fill="#FDFEFE" transform="translate(30.425781, 26.500000) scale(-1, 1) translate(-30.425781, -26.500000) " points="0.84765625 11.8502433 60.0039062 53 29.1768805 0"></polygon>
+                </g>
+                <polygon id="Path-3" stroke="#15153A" fill="#F25E03" points="60.5 55.9277344 73.3164062 55.9277344 73.3164062 149.695312 60.5 149.695312"></polygon>
+                <text id="BC-KIDS" transform="translate(102.619546, 81.998711) rotate(-30.000000) translate(-102.619546, -81.998711) " font-family="LemonadeStand, Lemonade Stand" font-size="20" font-weight="normal" letter-spacing="1.5" fill="#FDFEFE">
+                    <tspan x="93.7757962" y="77.9987113">BC</tspan>
+                    <tspan x="84.4925931" y="105.998711">KIDS</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
